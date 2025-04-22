@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 - # 👩‍💼[[Management]]
 
 - # 🗣️[[Communication]]
