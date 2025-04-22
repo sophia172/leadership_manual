@@ -16,7 +16,7 @@ A leading question is helpful in priming and enhancing audience's receptiveness 
 - Show you’re listening, using simple cues.  
 - Summarise. Check your understanding before you move on.  
   
-•![](../image/Aspose.Words.5364a901-92ab-4f1a-a312-4393b804b23f.007.jpeg)  
+•![](Aspose.Words.5364a901-92ab-4f1a-a312-4393b804b23f.007.jpeg)  
   
 ## Manage conflict  
   
