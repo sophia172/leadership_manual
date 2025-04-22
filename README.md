@@ -2,6 +2,7 @@
 ~
 ---
   
+  
 - # 👩‍💼[Management](./Management/content/Management.md#)    
     
 - # 🗣️[Communication](./Management/content/Communication.md#)    
