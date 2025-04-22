@@ -1,7 +1,7 @@
 ---
 title: Changes
 ---
-[Back to Main](../../README.md#)    
+[Back to Main](../../index.md#)    
 # Change Management    
     
 7 emotional stages corresponds to a change **Solution**    

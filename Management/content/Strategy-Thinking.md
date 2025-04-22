@@ -1,7 +1,7 @@
 ---
 title: Strategy Thinking
 ---
-[Back to Main](../../README.md#)  
+[Back to Main](../../index.md#)  
 ## Structure of SWOT and case study    
     
     

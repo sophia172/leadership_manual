@@ -1,7 +1,7 @@
 ---
 title: Communication
 ---
-[Back to Main](../../README.md#)  
+[Back to Main](../../index.md#)  
 A leading question is helpful in priming and enhancing audience's receptiveness to the point    
     
     

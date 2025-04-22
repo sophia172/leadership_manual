@@ -1,7 +1,7 @@
 ---
 title: Creativity and Innovation
 ---
-[Back to Main](../../README.md#)  
+[Back to Main](../../index.md#)  
 # 10 mental locks    
     
     
