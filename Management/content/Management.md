@@ -4,7 +4,6 @@ title: Management
 [Back to Main](index)
 ## Core Principle  
   
-  
 ### Define a project  
 ---   
 1. To be planned, so all team member are clear about the activity  
