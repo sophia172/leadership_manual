@@ -88,4 +88,4 @@ Step6: Review all the force and rating.
 ## SCARF  
   
   
-![](../image/Aspose.Words.5364a901-92ab-4f1a-a312-4393b804b23f.027.png) ![](../image/Aspose.Words.5364a901-92ab-4f1a-a312-4393b804b23f.028.png)
+![](Aspose.Words.5364a901-92ab-4f1a-a312-4393b804b23f.027.png) ![](Aspose.Words.5364a901-92ab-4f1a-a312-4393b804b23f.028.png)

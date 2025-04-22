@@ -131,7 +131,7 @@ A strange but common belief is that a creative is a certain type of person, and 
 - Lead by example - put your ideas and creative insights out there and ask others to contribute. Reduce the feeling of risk by sharing ideas without getting emotionally attached to them.   
 - Encourage the early signs of creativity, whether it's simple the language people use, or a whole new idea. Focus on supporting creative practice, rather than worrying about outputs.   
   
-![](../image/Aspose.Words.5364a901-92ab-4f1a-a312-4393b804b23f.025.png)  
+![](Aspose.Words.5364a901-92ab-4f1a-a312-4393b804b23f.025.png)  
 # Successful innovation relies on three important factors   
   
 [Ten types of innovation](<https://www.doblin.com/ten-types>)  
