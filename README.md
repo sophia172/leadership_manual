@@ -1,5 +1,5 @@
 ---
-~
+title: Leadership Manual
 ---
   
 - # 👩‍💼[Management](./Management/content/Management.md#)    
