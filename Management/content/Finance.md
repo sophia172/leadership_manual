@@ -1,7 +1,7 @@
 ---
 title: Finance
 ---
-[Back to Main](../../index.md#)  
+[Back to Main](../../index.md)  
 ## Cash flow    
     
     

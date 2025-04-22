@@ -2,7 +2,7 @@
 title: Communication
 layout: default
 ---
-[Back to Main](../../index.md#)  
+[Back to Main](../../index.md)  
 A leading question is helpful in priming and enhancing audience's receptiveness to the point    
     
     
@@ -49,5 +49,4 @@ A leading question is helpful in priming and enhancing audience's receptiveness 
         
 9. **Learn from the Experience**: Reflect on the conflict and the resolution process. What worked well? What could have been done differently? Use these insights to improve conflict management strategies in the future.    
         
->>>>>>> b2bbe0c (remove extension in links)  
 10. **Promote a Positive Culture**: Foster an organizational culture that views conflicts as opportunities for growth rather than threats. Encourage open communication, mutual respect, and continuous learning.

@@ -1,7 +1,7 @@
 ---
 title: Leadership&Management
 ---
-[Back to Main](../../index.md#)  
+[Back to Main](../../index.md)  
 The difference between management and leadership    
     
 **Manager**    

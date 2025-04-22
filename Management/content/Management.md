@@ -2,7 +2,7 @@
 title: Management
 layout: default
 ---
-[Back to Main](../../index.md#)  
+[Back to Main](../../index.md)  
 ## Core Principle    
     
 ### Define a project    
@@ -52,7 +52,7 @@ layout: default
 	- Set a realistic deadline/time-frame with just enough pressure to maintain motivation. There is a clear deadline    
     
     
-## [Engaging-stake-holders](./Engaging-stake-holders.md#)    
+## [Engaging-stake-holders](./Engaging-stake-holders.md)    
     
     
     
@@ -86,7 +86,7 @@ frame: project plan
 ![Pasted image 20230707152017.png](../image/Pasted%20image%2020230707152017.png)    
     
     
-## Evaluation and [Finance](./Finance.md#)    
+## Evaluation and [Finance](./Finance.md)    
     
 ### Benefits    
     
