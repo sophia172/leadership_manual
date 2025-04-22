@@ -1,3 +1,6 @@
+---
+title: Creativity and Innovation
+---
 [Back to Main](../../README.md#)  
 # 10 mental locks    
     
