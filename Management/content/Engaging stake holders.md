@@ -21,4 +21,4 @@
 ### [Stakeholder mapping](obsidian://open?vault=Personal_Note_Library&file=Management%2Fform%2FStake%20holder%20mapping%20tool.xlsx)  
 Where they are and how to contact them (frequency and details of meeting)  
   
-![](../image/Aspose.Words.5364a901-92ab-4f1a-a312-4393b804b23f.001.png)  
+![](Aspose.Words.5364a901-92ab-4f1a-a312-4393b804b23f.001.png)  
