@@ -5,6 +5,7 @@ relative_links:
   enabled: true
 include:
   - index.md
-  - content/
-  - form/
-  - image/
+  - Management/content/
+  - Management/form/
+  - Management/image/
+  - Management/
