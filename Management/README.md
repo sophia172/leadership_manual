@@ -1,19 +1,16 @@
----
-share: true
----
   
-- # 👩‍💼[Management](../Management.md)  
+- # 👩‍💼[Management](./content/Management.md)  
   
-- # 🗣️[Communication](../Communication.md)  
+- # 🗣️[Communication](./content/Communication.md)  
   
-- # 🙋‍♀️[Leadership & Management](../Leadership%20&%20Management.md)  
+- # 🙋‍♀️[Leadership & Management](./content/Leadership%20&%20Management.md)  
   
-- # 👩‍💻[Personal Effectiveness](../Personal%20Effectiveness.md)  
+- # 👩‍💻[Personal Effectiveness](./content/Personal%20Effectiveness.md)  
   
-- # 😱 [Change Management and work with others](../Change%20Management%20and%20work%20with%20others.md)  
+- # 😱 [Change Management and work with others](./content/Change%20Management%20and%20work%20with%20others.md)  
   
-- # 👩‍🎨[Creativity and innovation](../Creativity%20and%20innovation.md)  
+- # 👩‍🎨[Creativity and innovation](./content/Creativity%20and%20innovation.md)  
   
-- # 🧠[Strategy thinking](../Strategy%20thinking.md)  
+- # 🧠[Strategy thinking](./content/Strategy%20thinking.md)  
   
-- # 🤑[Finance](../Finance.md)  
+- # 🤑[Finance](./content/Finance.md)  
