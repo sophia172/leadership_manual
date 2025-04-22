@@ -1,1 +1,0 @@
-[meta Mask R-CNN](https://research.facebook.com/publications/mask-r-cnn/)

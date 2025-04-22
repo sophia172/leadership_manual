@@ -1,1 +1,0 @@
-[link](https://research.facebook.com/publications/a-practical-stereo-depth-system-for-smart-glasses/)

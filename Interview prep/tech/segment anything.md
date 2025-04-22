@@ -1,1 +1,0 @@
-[meta-AI](https://segment-anything.com)
