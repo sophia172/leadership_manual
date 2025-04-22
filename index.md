@@ -1,7 +1,7 @@
 ---
 title: Leadership Manual
 ---
-- # 👩‍💼[Management](./Management/content/Management.md)    
+- # 👩‍💼[Management](./Management/content/Management)    
     
 - # 🗣️[Communication](./Management/content/Communication.md#)    
     
