@@ -1,3 +1,4 @@
+  
 [Back to Main](../../README.md#)  
 ## Core Principle    
     
@@ -10,7 +11,7 @@
 4. To involve people and resources    
 5. To create unique and beneficial change    
 6. To have a beginning and an end    
-    
+   
     
 ### Project Life Cycle    
 ---    
