@@ -1,5 +1,6 @@
 ---
 title: Communication
+layout: default
 ---
 [Back to Main](../../index.md#)  
 A leading question is helpful in priming and enhancing audience's receptiveness to the point    

@@ -1,5 +1,6 @@
 ---
 title: Management
+layout: default
 ---
 [Back to Main](../../index.md#)  
 ## Core Principle    
