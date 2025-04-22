@@ -1,0 +1,21 @@
+# Ignore node_modules and dependencies
+node_modules/
+vendor/
+
+# Ignore build artifacts
+dist/
+build/
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment and secret files
+.env
+config.json
+
+Interview*/
+Job*/
+.obsidian
+
