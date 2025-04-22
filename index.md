@@ -12,7 +12,7 @@ title: Leadership Manual
     
 - # 😱 [Change-Management-and-work-with-others](./Management/content/Change-Management-and-work-with-others.md#)    
     
-- # 👩‍🎨[Creativity-and-Innovation](./Management/content/Creativity-and-Innovation.md#)    
+- # 👩‍🎨[Creativity-and-Innovation](./Management/content/Creativity-and-Innovation.md#)   
     
 - # 🧠[Strategy-Thinking](./Management/content/Strategy-Thinking.md#)    
     
