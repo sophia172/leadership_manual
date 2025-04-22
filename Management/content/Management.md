@@ -52,7 +52,7 @@ title: Management
 	- Set a realistic deadline/time-frame with just enough pressure to maintain motivation. There is a clear deadline    
     
     
-## [Engaging stake holders](./Engaging%2520stake%2520holders.md#)    
+## [Engaging-stake-holders](./Engaging-stake-holders.md#)    
     
     
     
