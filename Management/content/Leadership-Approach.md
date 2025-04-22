@@ -1,4 +1,6 @@
-    
+---
+title: Leadership Approach
+---
 ![](../image/Aspose.Words.5364a901-92ab-4f1a-a312-4393b804b23f.023.png)    
     
 ## Instruct    
