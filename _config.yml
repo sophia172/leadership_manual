@@ -1,12 +1,29 @@
+title: Leadership Manual
+description: A comprehensive guide to leadership and management
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman  # You can choose a different theme if you prefer
+
 plugins:
   - jekyll-relative-links
 
 relative_links:
   enabled: true
+  collections: true
+
+# File inclusions
 include:
-  - index.md
+  - Management/
   - Management/content/
   - Management/form/
   - Management/image/
-  - Management/
-  - Management
+  - "*.md"
+
+# Default front matter for pages
+defaults:
+  -
+    scope:
+      path: ""  # Apply to all files
+    values:
+      layout: "default"  # Use the default layout
