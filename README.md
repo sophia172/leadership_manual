@@ -1,7 +1,7 @@
 ---
 ~
 ---
-    
+  
 - # 👩‍💼[Management](./Management/content/Management.md#)    
     
 - # 🗣️[Communication](./Management/content/Communication.md#)    
@@ -17,3 +17,5 @@
 - # 🧠[Strategy thinking](./Management/content/Strategy%2520thinking.md#)    
     
 - # 🤑[Finance](./Management/content/Finance.md#)    
+  
+  
