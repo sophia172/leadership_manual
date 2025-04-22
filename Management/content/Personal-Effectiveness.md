@@ -1,7 +1,7 @@
 ---
 title: Personal Effectiveness
 ---
-[Back to Main](../../README.md#)  
+[Back to Main](../../index.md#)  
 ## Resource wheel    
     
 ### 6 key business resources    
