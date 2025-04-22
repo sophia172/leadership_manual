@@ -1,3 +1,4 @@
+[Back to Main](../../README.md#)  
 ## Structure of SWOT and case study    
     
     
